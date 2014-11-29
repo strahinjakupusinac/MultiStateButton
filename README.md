@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Strahinja Kupusinac, strahinja.kupusinac@codecentric.de
+Strahinja Kupusinac, strahinjakupusinac@gmail.com
 
 ## License
 
